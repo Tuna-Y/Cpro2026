@@ -1,4 +1,4 @@
-#include<stdio.h>
+﻿#include<stdio.h>
 
 void to_hms(int total, int* h, int* m, int* s) {
 	*h = total / 3600;

@@ -1,4 +1,4 @@
-#include<stdio.h>
+﻿#include<stdio.h>
 
 void apply_discount(int* price, int n, int percent) {
 	for (int i = 0;i < n;i++) {
